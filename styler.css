@@ -1,0 +1,43 @@
+body {
+	background-image: url("./bcg.png");
+	background-size: cover cover;
+	background-repeat: no-repeat;
+	color: #83c4cf;
+}
+
+.container {
+	margin-top: 10px;
+}
+
+li {
+	list-style: none;
+	margin-bottom: 5px;
+}
+
+#jumbo {
+	border: 3px solid #83c4cf;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: #cf8e83;
+}
+
+.add-btn {
+	background: #83c4cf;
+	margin-right: 75px;
+}
+
+.add-btn:hover {
+	box-shadow: 3px 3px 6px black;
+}
+
+.clear-btn {
+	background: #83c4cf;
+}
+
+.clear-btn:hover {
+	box-shadow: 3px 3px 6px black;
+}
+
+.remove:hover {
+	background: #83c4cf;
+}
